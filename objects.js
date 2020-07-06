@@ -9,3 +9,13 @@ var playlist = {Britney: "Toxic"};
 
   }
   
+  function removeFromPlaylist(playlist, artistName)
+  {
+    delete playlist.artistName;
+    
+    
+    
+    
+  }
+  
+  
