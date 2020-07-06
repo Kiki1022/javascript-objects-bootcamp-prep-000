@@ -2,10 +2,10 @@ var playlist = {artistName: songTitle};
 
 
 
-  function updatePlaylist(playlist, songTitle, artistName)
+  function updatePlaylist(playlist, artistName, songTitle)
  
   {
- return playlist.assign({songTitle},  = ['Slowdive', 'My Bloody Valentine', 'Phil Ochs'];
+ return playlist.assign({'Slowdive': songTitle}, {'My Bloody Valentine': songTitle}, {'Phil Ochs': songtitle];
   return playlist;
   }
   
