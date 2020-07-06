@@ -1,8 +1,8 @@
-var playlist = {artistName: "Song Title"};
+var playlist = {artistName: songTitle};
 
 
 
-  function updatePlaylist(playlist, artistName, songTitle)
+  function updatePlaylist(playlist, songTitle, artistName)
  
   {
   playlist.assign = ['Slowdive', 'My Bloody Valentine', 'Phil Ochs'];
